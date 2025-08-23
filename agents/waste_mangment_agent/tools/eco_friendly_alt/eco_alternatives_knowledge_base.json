@@ -1,0 +1,1322 @@
+{
+  "Automotive": {
+    "Antifreeze": {
+      "category": "Household Hazardous Waste",
+      "subcategory": [],
+      "keywords": ["antifreeze", "coolant", "engine coolant"],
+      "disposal": "Take to a certified auto shop or HHW facility. Never pour down drains or on the ground.",
+      "recyclable": true,
+      "local_handling": ["Auto repair centers", "HHW drop-off"],
+      "notes": [],
+      "alternatives": [
+        "Extended-life coolants (less frequent replacement)",
+        "Electric vehicles (no traditional coolant systems)"
+      ]
+    },
+    "Auto Fluids": {
+      "category": "Household Hazardous Waste",
+      "subcategory": ["Engine oil", "Transmission fluid", "Brake fluid", "Power steering fluid"],
+      "keywords": ["auto fluids", "car fluids", "motor fluids"],
+      "disposal": "Bring to auto parts stores or HHW centers. Store in sealed, labeled containers.",
+      "recyclable": true,
+      "local_handling": ["AutoZone", "O'Reilly", "Municipal HHW events"],
+      "notes": [],
+      "alternatives": [
+        "Electric vehicles (reduced fluid needs)",
+        "Long-life synthetic fluids (fewer changes)"
+      ]
+    },
+    "Car Batteries": {
+      "category": "Metal / Hazardous",
+      "subcategory": [],
+      "keywords": ["car battery", "lead-acid battery", "vehicle battery"],
+      "disposal": "Return to auto parts store or recycler. Contains lead and sulfuric acid.",
+      "recyclable": true,
+      "local_handling": ["Auto shops", "Battery recyclers"],
+      "notes": ["Recycling rate over 99% in the US."],
+      "alternatives": [
+        "EVs with longer-life battery systems",
+        "Maintain battery health to extend lifespan"
+      ]
+    },
+    "Tires": {
+      "category": "Special Waste",
+      "subcategory": [],
+      "keywords": ["tires", "car tires", "truck tires"],
+      "disposal": "Do not landfill. Take to tire retailers or HHW. May incur a fee.",
+      "recyclable": true,
+      "local_handling": ["Tire retailers", "Municipal collection events"],
+      "notes": ["Recycled into rubberized asphalt, playground surfaces, or fuel."],
+      "alternatives": [
+        "All-weather tires (reduce seasonal changes)",
+        "Bike or public transit (reduce car use)"
+      ]
+    },
+    "Used Motor Oil & Filters": {
+      "category": "Hazardous Waste",
+      "subcategory": [],
+      "keywords": ["motor oil", "oil filter", "used oil", "engine oil"],
+      "disposal": "Drain oil from filter; recycle oil at auto parts store or HHW. Recycle metal filter with scrap metal.",
+      "recyclable": true,
+      "local_handling": ["AutoZone", "Walmart Auto", "HHW centers"],
+      "notes": ["One quart of oil can contaminate 250,000 gallons of water."],
+      "alternatives": [
+        "Electric vehicles (no oil changes)",
+        "Synthetic oil (longer intervals)"
+      ]
+    }
+  },
+  "Construction": {
+    "Carpet": {
+      "category": "Special Waste",
+      "subcategory": [],
+      "keywords": ["carpet", "rug", "flooring"],
+      "disposal": "Check for local carpet recyclers. Often not accepted in curbside bins.",
+      "recyclable": false,
+      "local_handling": ["Specialty recyclers", "Landfill with fee"],
+      "notes": ["Partially recyclable (nylon, polypropylene). Some areas ban landfilling (CA, CT, RI)."],
+      "alternatives": [
+        "Modular carpet tiles (replace only damaged sections)",
+        "Natural fiber rugs (wool, jute, biodegradable)"
+      ]
+    },
+    "Construction Waste": {
+      "category": "Bulk Waste",
+      "subcategory": ["Wood scraps", "Drywall", "Concrete", "Metals", "Insulation"],
+      "keywords": ["construction debris", "demolition waste", "C&D waste"],
+      "disposal": "Use designated construction waste haulers or transfer stations.",
+      "recyclable": true,
+      "local_handling": ["Transfer stations", "Deconstruction services"],
+      "notes": ["Recycled into aggregate, reclaimed lumber, or metal stock."],
+      "alternatives": [
+        "Deconstruction over demolition",
+        "Design for disassembly (circular architecture)"
+      ]
+    },
+    "Porcelain Fixtures": {
+      "category": "Ceramic / Non-Recyclable",
+      "subcategory": [],
+      "keywords": ["toilet", "sink", "bathroom fixture", "porcelain"],
+      "disposal": "Not recyclable curbside. Check for tile/C&D recyclers.",
+      "recyclable": false,
+      "local_handling": ["Landfill", "Specialty recyclers (crushed for backfill)"],
+      "notes": [],
+      "alternatives": [
+        "Repair instead of replace",
+        "Buy reclaimed fixtures"
+      ]
+    },
+    "Shingles": {
+      "category": "Construction & Demolition",
+      "subcategory": [],
+      "keywords": ["roof shingles", "asphalt shingles", "roofing waste"],
+      "disposal": "Take to C&D recycling centers. Asphalt shingles can be recycled into pavement.",
+      "recyclable": true,
+      "local_handling": ["Roofing recyclers", "Transfer stations"],
+      "notes": ["Recycling rate approx. 12% in the US (growing)."],
+      "alternatives": [
+        "Metal or clay roofing (longer life)",
+        "Cool roofs (reduce energy use)"
+      ]
+    }
+  },
+  "Glass": {
+    "Glass": {
+      "category": "Glass",
+      "subcategory": [],
+      "keywords": ["glass", "general glass", "broken glass"],
+      "disposal": "Clean and separate by color if required. Remove lids.",
+      "recyclable": true,
+      "local_handling": ["Curbside", "Drop-off centers"],
+      "notes": ["Ceramics, mirrors, and light bulbs are not recyclable."],
+      "alternatives": [
+        "Buy in bulk with returnable containers",
+        "Choose products with minimal packaging"
+      ]
+    },
+    "Glass Bottles & Jars": {
+      "category": "Glass",
+      "subcategory": [],
+      "keywords": ["glass bottle", "jar", "food jar", "beverage bottle"],
+      "disposal": "Rinse and recycle. Lids go in metal bin.",
+      "recyclable": true,
+      "local_handling": ["Curbside", "Deposit programs (where applicable)"],
+      "notes": [],
+      "alternatives": [
+        "Refill stations for beverages",
+        "Kombucha on tap with jar return"
+      ]
+    },
+    "Kitchen Glassware": {
+      "category": "Non-Recyclable Glass",
+      "subcategory": [],
+      "keywords": ["drinking glass", "ovenware", "Pyrex", "tempered glass"],
+      "disposal": "Not recyclable due to tempering. Donate if usable.",
+      "recyclable": false,
+      "local_handling": ["Trash", "Donation centers"],
+      "notes": [],
+      "alternatives": [
+        "Tempered glassware designed for reuse",
+        "Silicone storage containers"
+      ]
+    },
+    "Windows": {
+      "category": "Composite Material",
+      "subcategory": [],
+      "keywords": ["window", "double-pane", "glass window", "house window"],
+      "disposal": "Not curbside recyclable. Separate glass, wood, metal if possible.",
+      "recyclable": false,
+      "local_handling": ["C&D recyclers", "Habitat ReStore"],
+      "notes": ["May be partially recyclable depending on materials."],
+      "alternatives": [
+        "Energy-efficient windows (last longer)",
+        "Repair seals instead of full replacement"
+      ]
+    }
+  },
+  "Plastic": {
+    "Acrylic Plaques and Awards": {
+      "category": "Specialty Plastic",
+      "subcategory": [],
+      "keywords": ["acrylic", "award", "plaque", "trophy"],
+      "disposal": "Not recyclable curbside. Consider reuse or specialty recyclers.",
+      "recyclable": false,
+      "local_handling": ["Reuse", "Specialty recyclers"],
+      "notes": [],
+      "alternatives": [
+        "Digital awards",
+        "Wood or bamboo trophies"
+      ]
+    },
+    "Black-Colored Plastic": {
+      "category": "Problematic Plastic",
+      "subcategory": [],
+      "keywords": ["black plastic", "takeout container", "dark plastic"],
+      "disposal": "Often not recyclable — optical scanners can't detect black pigment.",
+      "recyclable": false,
+      "local_handling": ["Trash"],
+      "notes": ["Avoid when possible. Look for 'detectable black' or colored alternatives."],
+      "alternatives": [
+        "Colored (non-black) plastic packaging",
+        "Cardboard or paper alternatives"
+      ]
+    },
+    "Bubble Wrap": {
+      "category": "Plastic Film",
+      "subcategory": [],
+      "keywords": ["bubble wrap", "packing bubbles", "air pillows"],
+      "disposal": "Not curbside. Take to grocery store drop-off or reuse.",
+      "recyclable": true,
+      "local_handling": ["Grocery store collection bins"],
+      "notes": ["Only recyclable at designated plastic film drop-offs."],
+      "alternatives": [
+        "Reusable fabric wraps",
+        "Air pillows made from recycled content",
+        "Packing with old newspapers"
+      ]
+    },
+    "Coffee Pods": {
+      "category": "Mixed Material",
+      "subcategory": ["Keurig K-Cups", "Nespresso", "Generic"],
+      "keywords": ["coffee pod", "k-cup", "nespresso", "single-serve pod"],
+      "disposal": "Nespresso: mail-in program. Others: separate foil, plastic, coffee grounds.",
+      "recyclable": false,
+      "local_handling": ["Mail-back programs", "Special separation"],
+      "notes": ["Most are not recyclable due to mixed materials."],
+      "alternatives": [
+        "Reusable coffee pods",
+        "French press or pour-over",
+        "Compostable pods (only if industrially composted)"
+      ]
+    },
+    "Compostable Plastic": {
+      "category": "Bioplastic",
+      "subcategory": [],
+      "keywords": ["compostable plastic", "PLA", "bioplastic"],
+      "disposal": "Not for home compost. Requires industrial facility. Never in recycling bin.",
+      "recyclable": false,
+      "local_handling": ["Commercial composting only"],
+      "notes": ["Looks like plastic — contaminates recycling if misplaced."],
+      "alternatives": [
+        "Home-compostable materials (paper, food scraps)",
+        "Reusable containers"
+      ]
+    },
+    "Garden Hoses": {
+      "category": "Mixed Plastic",
+      "subcategory": [],
+      "keywords": ["garden hose", "water hose", "PVC hose"],
+      "disposal": "Not recyclable. Some recyclers accept PVC. Check locally.",
+      "recyclable": false,
+      "local_handling": ["Trash", "Reuse"],
+      "notes": [],
+      "alternatives": [
+        "Rubber hoses (longer life)",
+        "Repair kits for leaks"
+      ]
+    },
+    "Gel Packs/Cold Packs": {
+      "category": "Hazardous if Leaking",
+      "subcategory": [],
+      "keywords": ["cold pack", "gel pack", "ice pack", "lunch pack"],
+      "disposal": "Drain gel (non-toxic) and recycle plastic shell if clean.",
+      "recyclable": true,
+      "local_handling": ["Plastic recycling (clean shell)"],
+      "notes": ["Some contain sodium polyacrylate — dispose of gel in trash."],
+      "alternatives": [
+        "Reusable ice bricks (non-leak design)",
+        "Homemade ice packs (cloth + water)"
+      ]
+    },
+    "Meat Packaging": {
+      "category": "Mixed Material (Tray + Film)",
+      "subcategory": [],
+      "keywords": ["meat tray", "butcher packaging", "plastic meat container"],
+      "disposal": "Not recyclable — soiled and composite. Dispose in trash.",
+      "recyclable": false,
+      "local_handling": ["Trash"],
+      "notes": [],
+      "alternatives": [
+        "Buy from butcher with paper wrap",
+        "Bring own container (if allowed)"
+      ]
+    },
+    "Packing Peanuts": {
+      "category": "Plastic or Paper",
+      "subcategory": ["Styrofoam", "Paper", "Biodegradable (cornstarch)"],
+      "keywords": ["packing peanuts", "foam peanuts", "bio-peanuts"],
+      "disposal": "Foam: not recyclable. Paper/cornstarch: compostable or trash.",
+      "recyclable": false,
+      "local_handling": ["Reuse", "Compost (cornstarch only)"],
+      "notes": [],
+      "alternatives": [
+        "Inflatable air pillows",
+        "Crushed paper or fabric scraps"
+      ]
+    },
+    "Plastic Bags": {
+      "category": "Plastic Film",
+      "subcategory": [],
+      "keywords": ["plastic bag", "grocery bag", "shopping bag", "produce bag"],
+      "disposal": "Not in curbside. Return to grocery drop-off.",
+      "recyclable": true,
+      "local_handling": ["Grocery store bins"],
+      "notes": [],
+      "alternatives": [
+        "Reusable cloth bag",
+        "Jute or canvas tote",
+        "Paper bag (if recyclable locally)"
+      ]
+    },
+    "Plastic Caps & Lids": {
+      "category": "Plastic",
+      "subcategory": [],
+      "keywords": ["plastic lid", "bottle cap", "jar lid"],
+      "disposal": "Replace on bottle before recycling. Loose lids fall through machinery.",
+      "recyclable": true,
+      "local_handling": ["Curbside (on bottles)"],
+      "notes": [],
+      "alternatives": [
+        "Screw-top glass jars",
+        "Lidless containers (e.g., silicone stretch lids)"
+      ]
+    },
+    "Plastic Jugs & Bottles": {
+      "category": "PET/HDPE",
+      "subcategory": [],
+      "keywords": ["plastic bottle", "milk jug", "shampoo bottle"],
+      "disposal": "Rinse and recycle. Remove pumps (trash).",
+      "recyclable": true,
+      "local_handling": ["Curbside"],
+      "notes": [],
+      "alternatives": [
+        "Refill stations",
+        "Bulk dispensers",
+        "Concentrated tablets"
+      ]
+    },
+    "Plastic Shower Curtains": {
+      "category": "PVC/PEVA",
+      "subcategory": [],
+      "keywords": ["shower curtain", "plastic curtain", "bath curtain"],
+      "disposal": "Not recyclable. Cut into rags or dispose in trash.",
+      "recyclable": false,
+      "local_handling": ["Trash"],
+      "notes": [],
+      "alternatives": [
+        "Fabric shower curtains (washable)",
+        "PEVA (non-chlorinated) if plastic needed"
+      ]
+    },
+    "Plastic Utensils": {
+      "category": "Single-Use Plastic",
+      "subcategory": [],
+      "keywords": ["plastic fork", "spoon", "knife", "cutlery"],
+      "disposal": "Trash. Not recyclable due to size and contamination.",
+      "recyclable": false,
+      "local_handling": ["Trash"],
+      "notes": [],
+      "alternatives": [
+        "Reusable bamboo or metal cutlery",
+        "Keep a set in your bag"
+      ]
+    },
+    "Plastic Wrap & Film": {
+      "category": "Plastic Film",
+      "subcategory": [],
+      "keywords": ["plastic wrap", "cling film", "Saran wrap", "plastic film"],
+      "disposal": "Not curbside. Take to grocery drop-off if clean.",
+      "recyclable": true,
+      "local_handling": ["Grocery store bins"],
+      "notes": [],
+      "alternatives": [
+        "Beeswax wraps",
+        "Silicone lids",
+        "Glass containers with lids"
+      ]
+    },
+    "Water Filters": {
+      "category": "Mixed Material",
+      "subcategory": ["Brita", "Refrigerator filters", "RO membranes"],
+      "keywords": ["water filter", "Brita", "fridge filter", "purifier"],
+      "disposal": "Check manufacturer take-back (e.g., Brita via TerraCycle).",
+      "recyclable": false,
+      "local_handling": ["Mail-back", "HHW (some)"],
+      "notes": ["Some components may be recyclable via specialty programs."],
+      "alternatives": [
+        "Whole-house filtration (longer life)",
+        "Community water stations"
+      ]
+    }
+  },
+  "Household Hazardous Waste": {
+    "CFLs": {
+      "category": "Mercury-Containing",
+      "subcategory": [],
+      "keywords": ["CFL", "compact fluorescent", "energy-saving bulb"],
+      "disposal": "Take to HHW or retailer (e.g., Home Depot). Never trash.",
+      "recyclable": true,
+      "local_handling": ["HHW centers", "Retail drop-off"],
+      "notes": [],
+      "alternatives": [
+        "LED bulbs (no mercury, longer life)"
+      ]
+    },
+    "Emergency Flares": {
+      "category": "Hazardous / Reactive",
+      "subcategory": [],
+      "keywords": ["flare", "road flare", "emergency signal"],
+      "disposal": "Contact fire department or HHW. Do not disassemble.",
+      "recyclable": false,
+      "local_handling": ["Law enforcement", "HHW events"],
+      "notes": [],
+      "alternatives": [
+        "LED safety lights (reusable, no chemicals)"
+      ]
+    },
+    "Fluorescent Tubes": {
+      "category": "Mercury-Containing",
+      "subcategory": [],
+      "keywords": ["fluorescent tube", "light tube", "shop light"],
+      "disposal": "Take to HHW or lighting recycler. Handle carefully.",
+      "recyclable": true,
+      "local_handling": ["HHW", "Lighting suppliers"],
+      "notes": [],
+      "alternatives": [
+        "LED tube replacements"
+      ]
+    },
+    "Glow Sticks": {
+      "category": "Chemical Waste",
+      "subcategory": [],
+      "keywords": ["glow stick", "light stick", "party stick"],
+      "disposal": "Trash (sealed). Not recyclable. Avoid breaking.",
+      "recyclable": false,
+      "local_handling": ["Trash"],
+      "notes": [],
+      "alternatives": [
+        "Reusable LED light wands",
+        "Glow-in-the-dark toys (rechargeable)"
+      ]
+    },
+    "Kerosene": {
+      "category": "Flammable Liquid",
+      "subcategory": [],
+      "keywords": ["kerosene", "heater fuel", "lamp oil"],
+      "disposal": "HHW only. Never pour out.",
+      "recyclable": false,
+      "local_handling": ["HHW events"],
+      "notes": [],
+      "alternatives": [
+        "Electric heaters",
+        "Solar lanterns"
+      ]
+    },
+    "Mercury-containing Items": {
+      "category": "Toxic",
+      "subcategory": ["Thermometers", "Barometers", "Old thermostats"],
+      "keywords": ["mercury", "thermometer", "thermostat", "barometer"],
+      "disposal": "HHW. Never break or dump.",
+      "recyclable": true,
+      "local_handling": ["HHW centers"],
+      "notes": [],
+      "alternatives": [
+        "Digital thermometers",
+        "Smart thermostats"
+      ]
+    },
+    "Medical Sharps": {
+      "category": "Biohazard",
+      "subcategory": [],
+      "keywords": ["syringe", "needle", "insulin pen"],
+      "disposal": "Use approved sharps container. Drop at pharmacy or HHW.",
+      "recyclable": false,
+      "local_handling": ["Pharmacies", "Hospitals"],
+      "notes": [],
+      "alternatives": [
+        "Consult doctor about reducing injection frequency",
+        "Safety-engineered devices"
+      ]
+    },
+    "Medications": {
+      "category": "Pharmaceutical Waste",
+      "subcategory": [],
+      "keywords": ["pills", "meds", "prescription drugs"],
+      "disposal": "Use drug take-back programs. Never flush or trash.",
+      "recyclable": false,
+      "local_handling": ["Pharmacies", "DEA events"],
+      "notes": [],
+      "alternatives": [
+        "Prescription management to avoid overuse"
+      ]
+    },
+    "Paint": {
+      "category": "HHW",
+      "subcategory": ["Latex", "Oil-based"],
+      "keywords": ["paint", "leftover paint", "house paint"],
+      "disposal": "Latex: dry out and trash. Oil: HHW only.",
+      "recyclable": true,
+      "local_handling": ["HHW", "PaintCare centers"],
+      "notes": ["Latex paint may be recyclable in some areas."],
+      "alternatives": [
+        "Buy only needed amount",
+        "Use recycled-content paint"
+      ]
+    },
+    "Pesticides & Containers": {
+      "category": "Toxic",
+      "subcategory": [],
+      "keywords": ["pesticide", "insecticide", "weed killer"],
+      "disposal": "HHW. Triple-rinse containers before disposal.",
+      "recyclable": false,
+      "local_handling": ["HHW", "Agricultural waste events"],
+      "notes": [],
+      "alternatives": [
+        "Integrated pest management (IPM)",
+        "Natural predators (e.g., ladybugs)"
+      ]
+    },
+    "Vapes & Vaping Products": {
+      "category": "E-Waste + HHW",
+      "subcategory": ["Pods", "Batteries", "Devices"],
+      "keywords": ["vape", "e-cigarette", "pod", "vaping device"],
+      "disposal": "Batteries to e-waste. Devices to HHW (lithium, nicotine).",
+      "recyclable": false,
+      "local_handling": ["E-waste centers", "HHW"],
+      "notes": ["Limited recycling via special programs."],
+      "alternatives": [
+        "Quit vaping",
+        "Nicotine patches (proper disposal easier)"
+      ]
+    }
+  },
+  "Metal": {
+    "Aerosol Cans": {
+      "category": "Metal / Pressure",
+      "subcategory": [],
+      "keywords": ["aerosol", "spray can", "hairspray", "deodorant can"],
+      "disposal": "Empty completely. Recycle with metals. Not if partially full.",
+      "recyclable": true,
+      "local_handling": ["Curbside (empty)", "HHW (full)"],
+      "notes": [],
+      "alternatives": [
+        "Pump sprays (no propellant)",
+        "Refillable spray bottles"
+      ]
+    },
+    "Aluminum Cans": {
+      "category": "Metal",
+      "subcategory": [],
+      "keywords": ["aluminum can", "soda can", "beer can"],
+      "disposal": "Rinse and recycle. High value material.",
+      "recyclable": true,
+      "local_handling": ["Curbside", "Deposit programs"],
+      "notes": ["Recycling saves 95% energy vs. new aluminum."],
+      "alternatives": [
+        "Tap water in reusable bottle",
+        "Kegged beverages"
+      ]
+    },
+    "Aluminum Foil": {
+      "category": "Metal",
+      "subcategory": [],
+      "keywords": ["aluminum foil", "tin foil", "wrap"],
+      "disposal": "Clean only. Crumple into ball > fist size to avoid sorting loss.",
+      "recyclable": true,
+      "local_handling": ["Curbside"],
+      "notes": [],
+      "alternatives": [
+        "Silicone lids",
+        "Glass containers"
+      ]
+    },
+    "Fire Extinguishers": {
+      "category": "Pressure / HHW",
+      "subcategory": [],
+      "keywords": ["fire extinguisher", "safety canister"],
+      "disposal": "Do not trash. Contact fire department or HHW.",
+      "recyclable": false,
+      "local_handling": ["Fire stations", "HHW"],
+      "notes": [],
+      "alternatives": [
+        "Regular servicing to extend life"
+      ]
+    },
+    "Metal": {
+      "category": "Scrap Metal",
+      "subcategory": [],
+      "keywords": ["scrap metal", "metal waste", "junk metal"],
+      "disposal": "Take to scrap yard or transfer station.",
+      "recyclable": true,
+      "local_handling": ["Scrap metal recyclers"],
+      "notes": [],
+      "alternatives": [
+        "Buy refurbished metal goods"
+      ]
+    },
+    "Metal Lids & Bottle Caps": {
+      "category": "Metal",
+      "subcategory": [],
+      "keywords": ["metal lid", "bottle cap", "jar cap"],
+      "disposal": "Replace on bottle or collect in steel can (taped shut).",
+      "recyclable": true,
+      "local_handling": ["Curbside (attached or in can)"],
+      "notes": [],
+      "alternatives": [
+        "Glass jars with reusable lids"
+      ]
+    },
+    "Propane Tanks": {
+      "category": "Pressure / HHW",
+      "subcategory": [],
+      "keywords": ["propane tank", "grill tank", "gas cylinder"],
+      "disposal": "Exchange or return to retailer (e.g., Blue Rhino). Never puncture.",
+      "recyclable": true,
+      "local_handling": ["Retail exchange", "HHW"],
+      "notes": [],
+      "alternatives": [
+        "Electric grills",
+        "Permanent gas line"
+      ]
+    },
+    "Tin or Steel Cans": {
+      "category": "Metal",
+      "subcategory": [],
+      "keywords": ["tin can", "steel can", "soup can", "pet food can"],
+      "disposal": "Rinse and recycle. Includes soup, veggie, pet food cans.",
+      "recyclable": true,
+      "local_handling": ["Curbside"],
+      "notes": [],
+      "alternatives": [
+        "Buy in bulk",
+        "Make your own (e.g., soups)"
+      ]
+    }
+  },
+  "Electronics": {
+    "CDs & Tapes": {
+      "category": "E-Waste",
+      "subcategory": [],
+      "keywords": ["CD", "DVD", "VHS", "tape"],
+      "disposal": "Recycle via specialty programs (e.g., TerraCycle).",
+      "recyclable": true,
+      "local_handling": ["E-waste centers", "Mail-back"],
+      "notes": [],
+      "alternatives": [
+        "Digital music and movies",
+        "Library rentals"
+      ]
+    },
+    "Cell Phones": {
+      "category": "E-Waste",
+      "subcategory": [],
+      "keywords": ["cell phone", "smartphone", "mobile phone"],
+      "disposal": "Recycle or donate. Data wipe first.",
+      "recyclable": true,
+      "local_handling": ["Retailers", "E-waste"],
+      "notes": [],
+      "alternatives": [
+        "Keep phone longer",
+        "Buy refurbished"
+      ]
+    },
+    "Computer Monitors": {
+      "category": "E-Waste (CRT/LCD)",
+      "subcategory": [],
+      "keywords": ["monitor", "CRT", "LCD", "computer screen"],
+      "disposal": "HHW or e-waste center. CRT contains lead.",
+      "recyclable": true,
+      "local_handling": ["E-waste centers"],
+      "notes": [],
+      "alternatives": [
+        "Extend use with upgrades",
+        "Cloud computing (less hardware)"
+      ]
+    },
+    "Computers": {
+      "category": "E-Waste",
+      "subcategory": [],
+      "keywords": ["computer", "laptop", "desktop", "PC"],
+      "disposal": "Recycle or donate. Remove hard drive.",
+      "recyclable": true,
+      "local_handling": ["E-waste", "Nonprofits"],
+      "notes": [],
+      "alternatives": [
+        "Refurbished computers",
+        "Thin clients"
+      ]
+    },
+    "Headphones, Earbuds, Chargers": {
+      "category": "Small E-Waste",
+      "subcategory": [],
+      "keywords": ["headphones", "earbuds", "charger", "cable"],
+      "disposal": "E-waste centers or retailer take-back.",
+      "recyclable": true,
+      "local_handling": ["E-waste", "Retail drop-off"],
+      "notes": [],
+      "alternatives": [
+        "Wired over disposable earbuds",
+        "Universal chargers"
+      ]
+    },
+    "Hearing Aid Batteries": {
+      "category": "Button Cell",
+      "subcategory": [],
+      "keywords": ["hearing aid battery", "button battery", "zinc-air"],
+      "disposal": "Recycle via hearing aid centers or HHW.",
+      "recyclable": true,
+      "local_handling": ["Audiologists", "HHW"],
+      "notes": [],
+      "alternatives": [
+        "Rechargeable hearing aids"
+      ]
+    },
+    "Ink Cartridges": {
+      "category": "E-Waste / Plastic",
+      "subcategory": [],
+      "keywords": ["ink cartridge", "printer cartridge", "toner"],
+      "disposal": "Return to manufacturer or office supply store.",
+      "recyclable": true,
+      "local_handling": ["Staples", "Office Depot", "Mail-back"],
+      "notes": [],
+      "alternatives": [
+        "Refillable ink systems",
+        "Print less / digital docs"
+      ]
+    },
+    "Large Appliances": {
+      "category": "E-Waste / White Goods",
+      "subcategory": ["Refrigerators", "Washers", "Dryers"],
+      "keywords": ["appliance", "refrigerator", "washer", "dryer"],
+      "disposal": "Utility rebates for efficient models. Recycler removes refrigerants.",
+      "recyclable": true,
+      "local_handling": ["Retail pickup", "Municipal bulk"],
+      "notes": [],
+      "alternatives": [
+        "Repair instead of replace",
+        "Energy Star models"
+      ]
+    },
+    "Large Electronics": {
+      "category": "E-Waste",
+      "subcategory": ["TVs", "Stereo systems"],
+      "keywords": ["TV", "television", "stereo", "home theater"],
+      "disposal": "E-waste centers. CRTs especially hazardous.",
+      "recyclable": true,
+      "local_handling": ["E-waste", "Retail take-back"],
+      "notes": [],
+      "alternatives": [
+        "Share community equipment",
+        "Streaming over physical media"
+      ]
+    },
+    "LED Light Bulbs": {
+      "category": "E-Waste",
+      "subcategory": [],
+      "keywords": ["LED bulb", "light bulb", "lamp"],
+      "disposal": "Recycle due to electronics. Not HHW.",
+      "recyclable": true,
+      "local_handling": ["Hardware stores", "E-waste"],
+      "notes": [],
+      "alternatives": [
+        "Buy long-life LEDs",
+        "Motion-sensor lighting"
+      ]
+    },
+    "Plasma & LED TVs": {
+      "category": "E-Waste",
+      "subcategory": [],
+      "keywords": ["TV", "plasma", "LED", "flat screen"],
+      "disposal": "E-waste centers. May have fee.",
+      "recyclable": true,
+      "local_handling": ["E-waste", "Retail take-back"],
+      "notes": [],
+      "alternatives": [
+        "Use older TV longer",
+        "Projector + laptop"
+      ]
+    },
+    "Power Cords & Extension Cords": {
+      "category": "E-Waste",
+      "subcategory": [],
+      "keywords": ["power cord", "extension cord", "cable"],
+      "disposal": "E-waste centers. Copper valuable.",
+      "recyclable": true,
+      "local_handling": ["E-waste", "Scrap metal"],
+      "notes": [],
+      "alternatives": [
+        "Use multi-outlet strips with switch",
+        "Proper cord management to avoid damage"
+      ]
+    },
+    "Rechargeable Batteries": {
+      "category": "E-Waste",
+      "subcategory": ["Li-ion", "NiMH"],
+      "keywords": ["rechargeable battery", "AA", "AAA", "lithium"],
+      "disposal": "Drop at Call2Recycle bins (e.g., Best Buy, Home Depot).",
+      "recyclable": true,
+      "local_handling": ["Retail drop-off", "HHW"],
+      "notes": [],
+      "alternatives": [
+        "Solar-powered devices",
+        "Manual alternatives (e.g., wind-up radio)"
+      ]
+    },
+    "Rechargeable Tool Batteries": {
+      "category": "E-Waste",
+      "subcategory": [],
+      "keywords": ["tool battery", "drill battery", "power tool"],
+      "disposal": "Return to hardware store or e-waste center.",
+      "recyclable": true,
+      "local_handling": ["DeWalt", "Bosch", "E-waste"],
+      "notes": [],
+      "alternatives": [
+        "Corded tools where possible",
+        "Buy tools with shared battery platforms"
+      ]
+    },
+    "Single-use Batteries": {
+      "category": "HHW / E-Waste",
+      "subcategory": [],
+      "keywords": ["alkaline battery", "AA", "AAA", "disposable battery"],
+      "disposal": "Check local rules. Some allow trash, others require recycling.",
+      "recyclable": true,
+      "local_handling": ["HHW", "Retail drop-off"],
+      "notes": [],
+      "alternatives": [
+        "Switch to rechargeable",
+        "Low-power devices"
+      ]
+    },
+    "Small Appliances": {
+      "category": "E-Waste",
+      "subcategory": ["Toaster", "Blender", "Kettle"],
+      "keywords": ["toaster", "blender", "kettle", "small kitchen appliance"],
+      "disposal": "E-waste or donation if working.",
+      "recyclable": true,
+      "local_handling": ["E-waste", "Thrift stores"],
+      "notes": [],
+      "alternatives": [
+        "Multi-use appliances (e.g., food processor)",
+        "Manual tools"
+      ]
+    },
+    "Small Electronics": {
+      "category": "E-Waste",
+      "subcategory": ["Calculators", "Digital thermometers"],
+      "keywords": ["calculator", "digital thermometer", "small device"],
+      "disposal": "E-waste centers.",
+      "recyclable": true,
+      "local_handling": ["E-waste", "Retail"],
+      "notes": [],
+      "alternatives": [
+        "Use smartphone apps instead"
+      ]
+    },
+    "Smoke & Carbon Monoxide Detectors": {
+      "category": "E-Waste / Radioactive (some)",
+      "subcategory": [],
+      "keywords": ["smoke detector", "CO detector", "alarm"],
+      "disposal": "Check manufacturer. Some contain americium (return to maker).",
+      "recyclable": false,
+      "local_handling": ["Manufacturer return", "HHW"],
+      "notes": [],
+      "alternatives": [
+        "Long-life sealed battery models"
+      ]
+    }
+  },
+  "Paper": {
+    "Books & Magazines": {
+      "category": "Paper",
+      "subcategory": [],
+      "keywords": ["book", "magazine", "novel", "periodical"],
+      "disposal": "Recycle if clean. Donate if usable.",
+      "recyclable": true,
+      "local_handling": ["Curbside", "Donation"],
+      "notes": [],
+      "alternatives": [
+        "E-books and digital subscriptions",
+        "Library use"
+      ]
+    },
+    "Cardboard": {
+      "category": "Paper",
+      "subcategory": [],
+      "keywords": ["cardboard", "box", "shipping box"],
+      "disposal": "Flatten and recycle. Remove tape and labels.",
+      "recyclable": true,
+      "local_handling": ["Curbside", "Drop-off"],
+      "notes": [],
+      "alternatives": [
+        "Buy loose items",
+        "Support brands with minimal packaging"
+      ]
+    },
+    "Cartons": {
+      "category": "Composite",
+      "subcategory": ["Milk", "Soup", "Juice"],
+      "keywords": ["carton", "milk carton", "juice box", "drink box"],
+      "disposal": "Rinse. Accepted in many curbside programs.",
+      "recyclable": true,
+      "local_handling": ["Curbside"],
+      "notes": [],
+      "alternatives": [
+        "Buy in glass or returnable containers"
+      ]
+    },
+    "Composite Paper Packaging": {
+      "category": "Mixed Material",
+      "subcategory": [],
+      "keywords": ["coffee cup", "takeout container", "coated paper"],
+      "disposal": "Often not recyclable due to plastic lining.",
+      "recyclable": false,
+      "local_handling": ["Trash"],
+      "notes": [],
+      "alternatives": [
+        "Unpackaged goods",
+        "Reusable containers"
+      ]
+    },
+    "Frozen Food Boxes": {
+      "category": "Waxed / Coated Paper",
+      "subcategory": [],
+      "keywords": ["frozen food box", "pizza box", "frozen dinner"],
+      "disposal": "Not recyclable — wax or plastic coating.",
+      "recyclable": false,
+      "local_handling": ["Trash"],
+      "notes": [],
+      "alternatives": [
+        "Cook from scratch",
+        "Buy fresh instead of frozen"
+      ]
+    },
+    "Gift Cards & Gift Wrap": {
+      "category": "Problematic Paper",
+      "subcategory": ["Plastic-coated wrap", "Foiled paper"],
+      "keywords": ["gift wrap", "wrapping paper", "foil paper"],
+      "disposal": "Plain paper: recycle. Foil/plastic: trash.",
+      "recyclable": false,
+      "local_handling": ["Trash (foil/plastic)", "Curbside (plain paper)"],
+      "notes": ["Only uncoated paper is recyclable."],
+      "alternatives": [
+        "Reusable fabric wraps (furoshiki)",
+        "Brown paper + stamp"
+      ]
+    },
+    "Newspaper": {
+      "category": "Paper",
+      "subcategory": [],
+      "keywords": ["newspaper", "newsprint", "daily paper"],
+      "disposal": "Recycle or compost (black ink is soy-based).",
+      "recyclable": true,
+      "local_handling": ["Curbside", "Compost"],
+      "notes": [],
+      "alternatives": [
+        "Digital news"
+      ]
+    },
+    "Paper": {
+      "category": "Mixed Paper",
+      "subcategory": [],
+      "keywords": ["paper", "office paper", "printer paper"],
+      "disposal": "Recycle if clean. Shredded: bag in paper.",
+      "recyclable": true,
+      "local_handling": ["Curbside"],
+      "notes": [],
+      "alternatives": [
+        "Go paperless"
+      ]
+    },
+    "Paper Bags": {
+      "category": "Paper",
+      "subcategory": [],
+      "keywords": ["paper bag", "grocery bag", "shopping bag"],
+      "disposal": "Recycle or reuse. Compost if soiled.",
+      "recyclable": true,
+      "local_handling": ["Curbside", "Compost"],
+      "notes": [],
+      "alternatives": [
+        "Reusable tote bags"
+      ]
+    },
+    "Paper Cups": {
+      "category": "Coated Paper",
+      "subcategory": [],
+      "keywords": ["paper cup", "coffee cup", "disposable cup"],
+      "disposal": "Not recyclable — plastic lining. Compost only if industrial.",
+      "recyclable": false,
+      "local_handling": ["Trash", "Industrial compost"],
+      "notes": [],
+      "alternatives": [
+        "Reusable coffee cup",
+        "Bring your own mug"
+      ]
+    },
+    "Paperboard": {
+      "category": "Paper",
+      "subcategory": [],
+      "keywords": ["paperboard", "cereal box", "cardboard tube"],
+      "disposal": "Recycle (e.g., cereal boxes). Flatten.",
+      "recyclable": true,
+      "local_handling": ["Curbside"],
+      "notes": [],
+      "alternatives": [
+        "Buy in bulk to reduce packaging"
+      ]
+    },
+    "Phone Books": {
+      "category": "Paper",
+      "subcategory": [],
+      "keywords": ["phone book", "directory", "yellow pages"],
+      "disposal": "Recycle. Opt out at yellowpagesoptout.com.",
+      "recyclable": true,
+      "local_handling": ["Curbside"],
+      "notes": [],
+      "alternatives": [
+        "Online directories"
+      ]
+    },
+    "Shredded Paper": {
+      "category": "Paper",
+      "subcategory": [],
+      "keywords": ["shredded paper", "confidential paper"],
+      "disposal": "Bag in paper (not plastic). Some curbside accept.",
+      "recyclable": true,
+      "local_handling": ["Curbside (bagged)", "Compost (home)"],
+      "notes": [],
+      "alternatives": [
+        "Shred only what’s necessary",
+        "Digital document storage"
+      ]
+    },
+    "Waxed Cardboard": {
+      "category": "Non-Recyclable",
+      "subcategory": [],
+      "keywords": ["waxed cardboard", "produce box", "fruit box"],
+      "disposal": "Not recyclable — wax or plastic coating (e.g., produce boxes).",
+      "recyclable": false,
+      "local_handling": ["Trash"],
+      "notes": [],
+      "alternatives": [
+        "Buy loose produce",
+        "Use reusable produce bags"
+      ]
+    }
+  },
+  "Household": {
+    "Bathroom Products": {
+      "category": "Mixed Waste",
+      "subcategory": ["Cotton pads", "Q-tips", "Wipes"],
+      "keywords": ["cotton pad", "Q-tip", "wet wipe", "makeup remover"],
+      "disposal": "Trash. Most are plastic or composite.",
+      "recyclable": false,
+      "local_handling": ["Trash"],
+      "notes": [],
+      "alternatives": [
+        "Reusable cotton rounds",
+        "Bamboo Q-tips",
+        "Cloth wipes"
+      ]
+    },
+    "Car Seats": {
+      "category": "Composite / Hazardous",
+      "subcategory": [],
+      "keywords": ["car seat", "baby seat", "infant seat"],
+      "disposal": "Check retailer trade-in. Otherwise, dismantle: metal to scrap, fabric to trash.",
+      "recyclable": false,
+      "local_handling": ["Retailer programs", "HHW (if expired)"],
+      "notes": ["Only partially recyclable."],
+      "alternatives": [
+        "Rent for short-term use",
+        "Buy secondhand (if within expiry)"
+      ]
+    },
+    "Children’s Toys": {
+      "category": "Plastic / Mixed",
+      "subcategory": [],
+      "keywords": ["toy", "children's toy", "plastic toy"],
+      "disposal": "Donate if clean. Otherwise, trash.",
+      "recyclable": false,
+      "local_handling": ["Donation", "Trash"],
+      "notes": [],
+      "alternatives": [
+        "Wooden or metal toys",
+        "Secondhand markets"
+      ]
+    },
+    "Christmas Trees": {
+      "category": "Organic",
+      "subcategory": [],
+      "keywords": ["christmas tree", "xmas tree", "holiday tree"],
+      "disposal": "Curbside pickup or drop-off. Mulched into compost.",
+      "compostable": true,
+      "local_handling": ["Municipal collection", "Drop-off"],
+      "notes": [],
+      "alternatives": [
+        "Potted living tree (replantable)",
+        "Decorative branches"
+      ]
+    },
+    "Clothing & Accessories": {
+      "category": "Textiles",
+      "subcategory": [],
+      "keywords": ["clothing", "shirt", "pants", "accessories"],
+      "disposal": "Donate or textile recycling. Never in curbside.",
+      "recyclable": true,
+      "local_handling": ["Donation bins", "Textile recyclers"],
+      "notes": [],
+      "alternatives": [
+        "Buy secondhand",
+        "Clothing swaps"
+      ]
+    },
+    "Coffee Bags": {
+      "category": "Mixed Material",
+      "subcategory": [],
+      "keywords": ["coffee bag", "ground coffee", "coffee packaging"],
+      "disposal": "Not recyclable — plastic lining. Compost only if certified.",
+      "recyclable": false,
+      "local_handling": ["Trash", "Industrial compost"],
+      "notes": [],
+      "alternatives": [
+        "Buy beans in bulk",
+        "Compostable bags (industrial composting)"
+      ]
+    },
+    "Cooking Oil": {
+      "category": "Hazardous if Poured",
+      "subcategory": [],
+      "keywords": ["cooking oil", "frying oil", "vegetable oil", "grease"],
+      "disposal": "Never pour down drain. Recycle at biodiesel centers or HHW.",
+      "recyclable": true,
+      "local_handling": ["Biodiesel recyclers", "HHW"],
+      "notes": [],
+      "alternatives": [
+        "Reduce oil use in cooking",
+        "Grease collection programs"
+      ]
+    },
+    "Cookware": {
+      "category": "Metal / Composite",
+      "subcategory": [],
+      "keywords": ["pan", "pot", "cookware", "non-stick"],
+      "disposal": "Donate if usable. Otherwise, metal to scrap.",
+      "recyclable": false,
+      "local_handling": ["Scrap metal", "Donation"],
+      "notes": ["Only metal-only cookware is recyclable."],
+      "alternatives": [
+        "Buy high-quality, long-life cookware",
+        "Repair non-stick coatings"
+      ]
+    },
+    "Corks": {
+      "category": "Natural Material",
+      "subcategory": [],
+      "keywords": ["cork", "wine cork", "natural cork"],
+      "disposal": "Compost natural corks. Synthetic: trash.",
+      "compostable": true,
+      "local_handling": ["Compost", "Cork recycling bins (some cities)"],
+      "notes": [],
+      "alternatives": [
+        "Wine with reusable stoppers",
+        "Box wine (less waste)"
+      ]
+    },
+    "Furniture": {
+      "category": "Bulky Waste",
+      "subcategory": [],
+      "keywords": ["furniture", "chair", "table", "sofa"],
+      "disposal": "Donate, sell, or schedule bulk pickup.",
+      "recyclable": false,
+      "local_handling": ["Donation", "Bulk pickup"],
+      "notes": ["Partially recyclable (wood, metal)."],
+      "alternatives": [
+        "Buy secondhand",
+        "Modular furniture"
+      ]
+    },
+    "Household Cleaners": {
+      "category": "HHW",
+      "subcategory": [],
+      "keywords": ["cleaner", "all-purpose", "glass cleaner", "chemical"],
+      "disposal": "Use up or take to HHW. Never mix chemicals.",
+      "recyclable": false,
+      "local_handling": ["HHW centers"],
+      "notes": [],
+      "alternatives": [
+        "DIY cleaners (vinegar, baking soda)",
+        "Concentrated refills"
+      ]
+    },
+    "Kitchen Sponges & Scouring Pads": {
+      "category": "Mixed Material",
+      "subcategory": [],
+      "keywords": ["sponge", "scouring pad", "steel wool", "scrubber"],
+      "disposal": "Trash. Not recyclable. Compost natural sponges only.",
+      "recyclable": false,
+      "local_handling": ["Trash"],
+      "notes": [],
+      "alternatives": [
+        "Loofah (compostable)",
+        "Cotton dishcloths (washable)"
+      ]
+    },
+    "Mattresses": {
+      "category": "Bulky Waste",
+      "subcategory": [],
+      "keywords": ["mattress", "bed", "sleeping pad"],
+      "disposal": "Retailer take-back or mattress recycler. Fee may apply.",
+      "recyclable": true,
+      "local_handling": ["Retail pickup", "Mattress recycling centers"],
+      "notes": [],
+      "alternatives": [
+        "Buy high-durability models",
+        "Mattress encasements to extend life"
+      ]
+    },
+    "Memory Foam": {
+      "category": "Plastic / Non-Recyclable",
+      "subcategory": [],
+      "keywords": ["memory foam", "foam pillow", "foam topper"],
+      "disposal": "Landfill. Not recyclable. Some donation if clean.",
+      "recyclable": false,
+      "local_handling": ["Trash"],
+      "notes": [],
+      "alternatives": [
+        "Latex foam (natural, biodegradable)",
+        "Cotton-filled pillows"
+      ]
+    },
+    "Nitrile, Vinyl, and Latex Gloves": {
+      "category": "Single-Use Plastic",
+      "subcategory": [],
+      "keywords": ["gloves", "nitrile", "latex", "vinyl", "disposable gloves"],
+      "disposal": "Trash. Not recyclable.",
+      "recyclable": false,
+      "local_handling": ["Trash"],
+      "notes": [],
+      "alternatives": [
+        "Washable fabric gloves",
+        "Only use when necessary"
+      ]
+    },
+    "Oyster Shells": {
+      "category": "Organic / Reuse",
+      "subcategory": [],
+      "keywords": ["oyster shell", "seafood shell", "shell waste"],
+      "disposal": "Not trash! Many programs recycle into reef restoration.",
+      "reuse_options": ["Shell recycling programs", "Garden additive"],
+      "local_handling": ["Coastal conservation groups"],
+      "notes": [],
+      "alternatives": [
+        "Support shell recycling initiatives"
+      ]
+    },
+    "Patio Furniture": {
+      "category": "Metal / Plastic",
+      "subcategory": [],
+      "keywords": ["patio furniture", "outdoor chair", "garden table"],
+      "disposal": "Scrap metal or donation. Plastic often not recyclable.",
+      "recyclable": false,
+      "local_handling": ["Scrap", "Donation"],
+      "notes": ["Only metal parts are recyclable."],
+      "alternatives": [
+        "Buy durable, repairable sets",
+        "Secondhand"
+      ]
+    },
+    "Pillows": {
+      "category": "Textile / Mixed",
+      "subcategory": [],
+      "keywords": ["pillow", "cushion", "throw pillow"],
+      "disposal": "Donate if clean. Otherwise, landfill.",
+      "recyclable": false,
+      "local_handling": ["Trash", "Donation"],
+      "notes": [],
+      "alternatives": [
+        "Down or natural fiber pillows (compostable casing)",
+        "Extend use with pillow protectors"
+      ]
+    },
+    "Toothbrushes & Toothpaste Tubes": {
+      "category": "Mixed Waste",
+      "subcategory": [],
+      "keywords": ["toothbrush", "toothpaste", "dental hygiene"],
+      "disposal": "Toothbrush: trash. Tubes: check Terracycle or special programs.",
+      "recyclable": false,
+      "local_handling": ["Terracycle", "Specialty"],
+      "notes": ["Limited recyclability."],
+      "alternatives": [
+        "Bamboo toothbrush",
+        "Toothpaste tablets in glass jars"
+      ]
+    },
+    "Underwear": {
+      "category": "Textile",
+      "subcategory": [],
+      "keywords": ["underwear", "panties", "briefs", "undergarments"],
+      "disposal": "Donate if clean. Otherwise, textile recycling or trash.",
+      "recyclable": true,
+      "local_handling": ["Donation", "Textile recycling"],
+      "notes": [],
+      "alternatives": [
+        "Buy high-quality, long-life",
+        "Repair small tears"
+      ]
+    },
+    "Yoga Mats": {
+      "category": "Plastic / Rubber",
+      "subcategory": [],
+      "keywords": ["yoga mat", "exercise mat", "fitness mat"],
+      "disposal": "Not recyclable curbside. Check specialty recyclers.",
+      "recyclable": false,
+      "local_handling": ["Specialty recyclers", "Reuse"],
+      "notes": [],
+      "alternatives": [
+        "Cork or natural rubber mats",
+        "Use towel on floor"
+      ]
+    }
+  }
+}
