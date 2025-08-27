@@ -5,11 +5,11 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-NEON_DB_URL = os.getenv("NEON_DB_URL")
+DATABASE_URL = os.getenv("DATABASE_URL")
 
 
 def get_connection():
-    return psycopg2.connect(NEON_DB_URL, cursor_factory=RealDictCursor)
+    return psycopg2.connect(DATABASE_URL, cursor_factory=RealDictCursor)
 
 def run_query(sql: str, fetch: bool = False):
     conn = get_connection()
